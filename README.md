@@ -221,4 +221,5 @@ Install tools to make Docket GPU (NVDIA) compatibility.
 ## Some links
 
 - [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
-- [Tensorflow Docker](https://www.tensorflow.org/install/docker?hl=es-419)
+- [Tensorflow Docker Documentation](https://www.tensorflow.org/install/docker?hl=es-419)
+- [Tensorflow Docker Hub](https://hub.docker.com/r/tensorflow/tensorflow/)
