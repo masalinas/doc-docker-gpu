@@ -217,3 +217,8 @@ Install tools to make Docket GPU (NVDIA) compatibility.
     tensorflow/tensorflow:latest-gpu  \
     python /cuda-test/test_tensorflow.py
     ```
+
+## Some links
+
+- [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html)
+- [Tensorflow Docker](https://www.tensorflow.org/install/docker?hl=es-419)
