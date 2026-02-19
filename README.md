@@ -30,7 +30,7 @@ Install tools to make Docket GPU (NVDIA) compatibility.
         libnvidia-container1=${NVIDIA_CONTAINER_TOOLKIT_VERSION}
     ```
 
-- **Step02**: Configure docker to use the new NVIDIA runtime
+- **Step02**: Configure docker to use the new Docker NVIDIA runtime
 
     This command configure docker runtime updating the file `/etc/docker/daemon.json`:
 
